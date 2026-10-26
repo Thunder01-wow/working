@@ -1,5 +1,5 @@
 def greet():
-    return "Hello! Application is running successfully."
+    return "Hello! Updated application is running successfully."
 
 
 if __name__ == "__main__":
